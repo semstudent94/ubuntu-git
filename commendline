@@ -33,3 +33,6 @@ git commit -m "your comment" "file name"
 
 //push to git hub
 git push -u origin master
+
+//pull from git
+git pull origin master
