@@ -22,4 +22,14 @@ touch "name of file"
 //open file
 gedit "name of file"
 
+//chek status
+git status
 
+//commit
+git add "name of file"
+
+//give commned on commit
+git commit -m "your comment" "file name"
+
+//push to git hub
+git push -u origin master
