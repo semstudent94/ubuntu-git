@@ -1,2 +1,5 @@
 // make new forlder
 mkdir "name of folder"
+
+// delelte file
+rm -i "name of file"
