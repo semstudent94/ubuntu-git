@@ -1,0 +1,25 @@
+//config account gihub
+
+git config --global user.name"username"
+
+
+//see account
+git config --list
+
+//file located
+pwd
+ls -al
+
+//open file
+gedit .gitconfig
+
+//clone reposity from github
+git clone "link reposity you wanna to clone"
+
+//to create new file
+touch "name of file"
+
+//open file
+gedit "name of file"
+
+
