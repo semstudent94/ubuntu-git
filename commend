@@ -3,3 +3,8 @@ mkdir "name of folder"
 
 // delelte file
 rm -i "name of file"
+
+// delete folder
+rm -rf "name of directory"
+
+
