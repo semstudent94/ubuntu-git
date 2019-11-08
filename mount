@@ -1,0 +1,15 @@
+cara mount directori
+
+pertama cari tau directory yang mau di mount dengan mengetik 
+
+🎳️fdisk -l
+
+setelah tau baru lah buat direktori dimana partisi tersebut akan dimounting
+
+buat direktori dimana partisi tersebut akan dimounting
+
+🎳️mount /dev/sda2 /media/localdisk
+
+untuk unmount nya tinggal
+
+🎳️umount /dev/sda2 /media/localdisk
